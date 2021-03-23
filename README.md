@@ -1,5 +1,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dogeshadow&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ## Hi there👋, this is dogeshadow
 
 - 🐶A freshman majoring in Software Engineering
